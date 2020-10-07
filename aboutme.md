@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mauricio Toledo-Acosta
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Gerardo Mauricio Toledo Acosta. I'm a Mathematician working on Complex Kleinian Groups and Natural Language Processing. I'm also a music composer and runner.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+... [some of my pre-prints](https://arxiv.org/search/math?searchtype=author&query=Toledo-Acosta%2C+M) and [my music](https://www.youtube.com/channel/UCNFBAvn4Z28pvqXyTwEBz9Q)...
