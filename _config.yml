@@ -16,7 +16,8 @@ author: Mauricio Toledo-Acosta
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Laboratorio de Semántica Computacional: "https://semanticacomputacional.wordpress.com/"
+    - My ArXiV: "https://arxiv.org/search/math?searchtype=author&query=Toledo-Acosta%2C+M"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://gmauricio-toledo.github.io/"
 
