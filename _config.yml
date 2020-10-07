@@ -9,7 +9,7 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: Mauricio Toledo-Acosta
 
 # --- List of links in the navigation bar --- #
 
@@ -39,16 +39,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "mauricio.toledo@uaem.mx"
+  facebook: gmauriciotoledo
+  github: gmauricio-toledo
+  twitter: nattmorker
 #  reddit: yourname
 #  linkedin: daattali
-#  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+instagram: gmaurici0
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -56,14 +54,12 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+ORCID: 0000-0002-8047-0189
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Mauricio Toledo-Acosta
 
 # --- General options --- #
 
