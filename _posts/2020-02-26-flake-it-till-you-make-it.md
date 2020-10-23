@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Lattice Diversities
 subtitle: A generalization on the concept of Diversities
 cover-img: /assets/img/M3.jpg
 thumbnail-img: /assets/img/M3.png
