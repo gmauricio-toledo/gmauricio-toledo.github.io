@@ -16,11 +16,12 @@ author: Mauricio Toledo-Acosta
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Laboratorio de Semántica Computacional: "https://semanticacomputacional.wordpress.com/"
+    - LABSEMCO: "https://semanticacomputacional.wordpress.com/"
     - My ArXiV: "https://arxiv.org/search/math?searchtype=author&query=Toledo-Acosta%2C+M"
     - My Music: "https://www.youtube.com/channel/UCNFBAvn4Z28pvqXyTwEBz9Q" 
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://gmauricio-toledo.github.io/"
+    - My G-S: "https://scholar.google.com/citations?user=P1plME8AAAAJ&hl=es&oi=ao"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+    
 
 # --- Logo --- #
 
