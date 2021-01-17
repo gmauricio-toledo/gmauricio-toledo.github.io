@@ -10,7 +10,8 @@ Now, I'm a post-doc researcher at the Computational Semantics Laboratory in the 
 
 ### My Publications
 
-[Some of my pre-prints](https://arxiv.org/search/math?searchtype=author&query=Toledo-Acosta%2C+M) on the ArXiV. 
+* [Cognitive Emotional Embedded Representations of Text to Predict Suicidal Ideation and Psychiatric Symptoms](https://www.mdpi.com/2227-7390/8/11/2088).
+* [Some of my pre-prints](https://arxiv.org/search/math?searchtype=author&query=Toledo-Acosta%2C+M) on the ArXiV. 
 
 ### My Music
 
